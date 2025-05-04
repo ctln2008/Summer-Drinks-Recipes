@@ -1,0 +1,9 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/close-up-view-pool_23-2147664496.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
